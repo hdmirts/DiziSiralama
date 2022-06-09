@@ -1,0 +1,2 @@
+# DiziSiralama
+Küçükten büyüğe sıralama
